@@ -19,21 +19,6 @@ python2 lazymux.py
 ```
 
 ## Contact Me
-Line     : dtl.lily<br>
-Telegram : @dtlily<br>
-Facebook : cgi.izo
-
-## Donation
-Support me with your donation<br>
-BTC:
-```
-1Eej5chjFzmdJdnQTfnTHeMQBYg5NPZ2Wm
-```
-DOGE:
-```
-DKNQfy2u4RTm4hAurUq67hkHLqdoVhD4fN
-```
-ETH:
-```
-0xa60d8d18b3b08bfa4a1675d5acfdbdbc839b40a2
-```
+Youtube  : Tech Dossier ( please SUBSCRIBE it's free! )
+Twitter  : https://mobile.twitter.com/TechDossier
+Facebook : https://m.facebook.com/TechDossier/
